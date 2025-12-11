@@ -34,7 +34,7 @@ Includes multiple pizza types, size options, add-ons, and a clean *Blue-Red them
 
 ### *1. Clone this repository*
 
-git clone https://github.com/Pranavnair2007/pizza-ordering-gui.git
+git clone https://github.com/PranavNair2007/pizza-ordering-gui/blob/main/pizza.py
 2.⁠ ⁠Navigate into the folder
 bash
 Copy code
